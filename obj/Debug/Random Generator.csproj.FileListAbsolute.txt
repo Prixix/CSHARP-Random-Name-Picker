@@ -1,0 +1,7 @@
+C:\Users\Paul\source\repos\Random Generator\bin\Debug\Random Generator.exe.config
+C:\Users\Paul\source\repos\Random Generator\bin\Debug\Random Generator.exe
+C:\Users\Paul\source\repos\Random Generator\bin\Debug\Random Generator.pdb
+C:\Users\Paul\source\repos\Random Generator\obj\Debug\Random Generator.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\Random Generator\obj\Debug\Random Generator.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Random Generator\obj\Debug\Random Generator.exe
+C:\Users\Paul\source\repos\Random Generator\obj\Debug\Random Generator.pdb
