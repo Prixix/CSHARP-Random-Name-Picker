@@ -21,16 +21,7 @@ namespace Random_Generator
 
             Console.ReadKey();
             Console.WriteLine($"{user[index]}");
-            Console.ReadKey();
-
-            if(randomNummer == 0)
-            {
-                Console.WriteLine("ist raus.");
-            } else if(randomNummer == 1)
-            {
-                Console.WriteLine("ist weiter.");
-            }
-
+            
             Console.ReadKey();
 
 
